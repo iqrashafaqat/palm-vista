@@ -1,5 +1,7 @@
 import React from 'react'
-import './Header.css'
+import './Header.css' 
+import Vector from './img/Vector.png'
+
 const Header = () => {
   return (
   <>
@@ -19,7 +21,8 @@ const Header = () => {
                 </div>
     {/* -------------------------Main Header Left Side------------------------- */}
                 <div className="col-12 col-lg-6">
-                    <img src="./images/vector1.png" alt="image"  className='img-fluid'/>
+                    {/* <img src="./images/vector1.png" alt="image"  className='img-fluid'/> */}
+                    <img src={Vector} alt="image-here" className="img-fluid"/>
 
                 </div>
                 </div>
