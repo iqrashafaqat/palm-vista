@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;1,200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .footer{
+    background-color: #145566;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 40px;
+    color: #FFFFFF;
+    text-decoration: none;
+  
+   }
+  .footer a{
+    font-family: 'Jost', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 40px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.footer-image{
+  border-radius: 10px;
+}
+.footer-l{
+  background-color: #E9F5F8;
+
+}
+
+/* .footer{
+  background-color: #145566;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 40px;
+  color: #FFFFFF;
+  text-decoration: none;
+ 
+ }
+.footer a{
+  font-family: 'Jost', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 40px;
+  color: #FFFFFF;
+  text-decoration: none;
+} */

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;1,200&display=swap');
+
+ .nav-item{
+    font-family: 'Jost', sans-serif;
+ }
+ .btn{
+    font-family: 'Jost', sans-serif;
+    background: #7BBF3A;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 30px;
+    gap: 10px;
+    color: #FFFFFF;
+ }

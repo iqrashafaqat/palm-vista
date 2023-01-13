@@ -1,0 +1,31 @@
+@font-face {
+    font-family: FontsFree-Net-August-Stories-Serif-1;  
+    src: local("FontsFree-Net-August-Stories-Serif-1"),
+      url("../fonts/FontsFree-Net-August-Stories-Serif-1.ttf") format("truetype");
+}
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;1,200&display=swap');
+
+
+.main-para
+{font-family:'Jost', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 70px;
+/* or 250% */
+margin-top: 50px;
+
+
+color: #5A5A5A;
+}
+.Shortterm-sub-heading{
+    font-family: 'Jost';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+margin-top: 50px;
+
+color: #7BBF3A;
+}

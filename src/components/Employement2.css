@@ -1,0 +1,36 @@
+@font-face {
+    font-family: FontsFree-Net-August-Stories-Serif-1;  
+    src: local("FontsFree-Net-August-Stories-Serif-1"),
+      url("../fonts/FontsFree-Net-August-Stories-Serif-1.ttf") format("truetype");
+}
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;1,200&display=swap');
+
+
+
+.heading_21{
+    font-family: FontsFree-Net-August-Stories-Serif-1;
+    font-style: normal;
+    font-weight: 400;
+    /* font-size: 56px; */
+    font-size: 53px;
+    line-height: 90px;
+    color: #145566;
+  }
+  
+.heading_2{
+    font-family:FontsFree-Net-August-Stories-Serif-1;
+    font-style: normal;
+    font-weight: 400;
+    /* font-size: 56px; */
+    font-size: 53px;
+    line-height: 90px;
+    color: #25758A;
+}
+.emp_2{
+    padding-left: 215px;
+      padding-top: 20px;
+      color: #5A5A5A;
+  }
+.em{
+    color: #5A5A5A;
+  }

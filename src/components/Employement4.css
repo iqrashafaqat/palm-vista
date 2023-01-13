@@ -1,0 +1,46 @@
+@font-face {
+    font-family: FontsFree-Net-August-Stories-Serif-1;  
+    src: local("FontsFree-Net-August-Stories-Serif-1"),
+      url("../fonts/FontsFree-Net-August-Stories-Serif-1.ttf") format("truetype");
+}
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;1,200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@1,200&display=swap');
+
+
+.employement-main-heading{
+
+font-family: 'Jost', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 79px;
+text-align: center;
+
+color: #145566;
+}
+.main-sub-heading{
+    font-family:'Jost', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 199.5%;
+
+
+
+color: #000000;
+}
+.emp-para{
+    font-family:'Jost', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 199.5%;
+
+
+
+color:#5A5A5A;
+}
+.Content1-main-haeding{
+    color: #145566;
+}

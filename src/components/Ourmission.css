@@ -1,0 +1,50 @@
+@font-face {
+    font-family: FontsFree-Net-August-Stories-Serif-1;  
+    src: local("FontsFree-Net-August-Stories-Serif-1"),
+      url("../fonts/FontsFree-Net-August-Stories-Serif-1.ttf") format("truetype");
+}
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;1,200&display=swap');
+
+
+
+.mission-main-heading{
+font-family: FontsFree-Net-August-Stories-Serif-1;
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 80px;
+
+/* 
+text-align: center; */
+
+color: #145566;
+}
+.mission-para{
+    
+font-family: 'Jost', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 191.5%;
+/* or 46px */
+
+text-transform: capitalize;
+color: #5A5A5A;
+}
+.mission-main-heading2{
+    font-family: FontsFree-Net-August-Stories-Serif-1;
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 60px;
+/* identical to box height, or 120% */
+
+
+
+color: #25758A;
+}
+.mission-list{
+    text-transform: capitalize;
+
+color: #5A5A5A;
+}

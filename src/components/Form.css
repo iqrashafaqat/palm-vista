@@ -1,0 +1,59 @@
+@font-face {
+    font-family: FontsFree-Net-August-Stories-Serif-1;  
+    src: local("FontsFree-Net-August-Stories-Serif-1"),
+      url("../fonts/FontsFree-Net-August-Stories-Serif-1.ttf") format("truetype");
+}
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;1,200&display=swap');
+
+
+
+
+
+.box{
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+}
+
+
+
+.form-1st-heading{
+    font-family: 'Jost', sans-serif;
+    color:  #000000;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 120%;
+
+}
+
+.form-2nd-heading{
+    color: #7BBF3A;
+    font-family: FontsFree-Net-August-Stories-Serif-1;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 120%;
+
+}
+.form-para{
+font-family: 'Jost', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 120%;
+text-transform: capitalize;
+color: #252525;
+}
+
+.form-text{
+font-family: 'Jost';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 190.5%;
+
+text-transform: capitalize;
+color: #777777;
+}

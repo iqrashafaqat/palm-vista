@@ -1,0 +1,12 @@
+.bodycontent-right-side{
+    font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 60px;
+/* or 300% */
+
+/* text-align: center; */
+text-transform: capitalize;
+color: #252525;
+}

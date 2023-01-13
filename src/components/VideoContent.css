@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;1,200&display=swap');
+
+.VideoContent-main-heading{
+font-family: 'Jost', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 60px;
+/* identical to box height, or 176% */
+text-align: center;
+text-transform: capitalize;
+color: #5A5A5A;
+}
+
+.VideoContent-main-heading1{
+color: #7BBF3A;
+}
